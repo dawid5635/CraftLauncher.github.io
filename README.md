@@ -1,0 +1,2 @@
+# CraftLauncher.github.io
+Changelog
