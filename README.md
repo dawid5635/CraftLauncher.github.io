@@ -1,2 +1,2 @@
 # CraftLauncher.github.io
-Changelog
+<B>This is only for HTML.<B>
