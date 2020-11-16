@@ -1,2 +1,6 @@
-# CraftLauncher.github.io
-<B>This is only for HTML.<B>
+# CraftLauncherHTML
+<B>This is HTML "changelog"<B>
+
+# What's in the changelog?
+- Updates
+- Information
